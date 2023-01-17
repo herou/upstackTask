@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ElioApp</string>
+    <string name="api_key">Berer token</string>
+    <string name="login">Login</string>
+    <string name="no_repo_found">No repo found</string>
+    <string name="ops_something_went_wrong">Ops, something went wrong</string>
+    <string name="log_out">Log out</string>
+    <string name="authentication_error">Authentication error!</string>
+</resources>
